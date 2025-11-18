@@ -2,7 +2,6 @@
 
 <div align="center">
   <!-- You can update the image source below with your own avatar if you have one -->
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="140" alt="Avatar" />
   <h1 style="font-family:Segoe UI, sans-serif; color:#5ce1e6;">Arushi Gupta</h1>
   <p><em>Information Technology Student | Machine Learning & Web Development Enthusiast @ PSIT Kanpur</em></p>
   <p><a href="mailto:arushigupta1818@gmail.com">📩 arushigupta1818@gmail.com</a></p>
